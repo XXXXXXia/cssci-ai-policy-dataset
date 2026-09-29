@@ -1,0 +1,29 @@
+期刊名称：济南大学学报（社会科学版）
+序号：66
+学科：高校学报
+主办单位：济南大学
+
+检索过程：
+- 检索「济南大学学报 社会科学版 官网 投稿须知 编辑部 ujn.edu.cn」，命中官网
+  https://journal.ujn.edu.cn/zh/info/6189/（投稿须知，更新日期 2026-01-27），成功读取全文。
+- 投稿须知正文第一条明确载明：「本刊对AIGC工具的使用有严格的要求，具体参见附件3」；
+  附件3 标题为《关于规范使用 AIGC 工具的声明》。
+- 政策全文为 PDF 附件，存放于阿里云 OSS，链接带签名参数：
+  https://founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com/upload/2026-08-02/102FK33CIGPPJ5648498.pdf
+  （x-oss-date=20260802，签名有效期至 2026-08-08）。
+- 尝试下载（Invoke-WebRequest 带 UA/Referer、curl -e 均试过）均返回 403 AccessDenied，
+  错误信息「Request has expired」（签名已过期），全文未能获取。
+- 排除的第三方站点：eshukan、juqk、hhxueshu、ndhx、sofabiao、yueqikan、qikanvip 等中介站，
+  均不作为政策来源。
+
+政策来源链接：
+https://journal.ujn.edu.cn/zh/info/6189/（投稿须知，附件3《关于规范使用 AIGC 工具的声明》）
+政策发布时间：投稿须知更新日期 2026-01-27；附件3 于 2026-08-02 上传（具体发布日期不详）
+政策类型：作者政策（AIGC 工具使用要求）
+
+AI政策全文：
+（全文为 PDF 附件《关于规范使用 AIGC 工具的声明》，因 OSS 签名过期无法下载，未能获取全文。
+投稿须知正文已明确：「本刊对AIGC工具的使用有严格的要求，具体参见附件3」。）
+
+置信度：中（官网投稿须知明确声明对 AIGC 工具有严格要求并附专项声明，但政策全文 PDF 因
+OSS 签名过期未能获取，具体条款待人工补齐）
