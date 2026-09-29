@@ -1,0 +1,136 @@
+# 中介站点黑名单
+
+检索 CSSCI 期刊 AI 政策时，以下域名为期刊投稿中介/代发/论文服务类站点，
+一律不作为 AI 政策来源，检索结果中出现即排除，不得采信其内容、不得作为证据链接。
+
+（初始为空，检索中每遇到新的中介站点即追加到下方）
+
+判定原则：
+- 出现「代投稿」「快速审稿通道」「包录用」等字样的站点，即使不在清单也应排除。
+- 期刊官方信息以其官网、主办单位官网、知网官方采编门户、官方认证公众号为准。
+
+可采信来源优先级（从高到低）：
+1. 期刊官方网站（编辑部公告、投稿须知/敬告作者书）
+2. 主办机构官网（社科院各研究所、高校院系、学会）
+3. 知网 CNKI 官方采编门户公告
+4. 教育部/主管部门官网期刊页
+5. 官方认证微信公众号推文
+6. 高校图书馆期刊信息页转载（次选，需注明「转载」）
+
+已确认的中介/代发站点（检索中遇到，一律排除，不得采信）：
+- ndhx.net（「杂志社-投稿主页」系列，如 ahsx.ndhx.net、ddzgsyj.ndhx.net、
+  gjhx.ndhx.net、wszz.ndhx.net、sxyk.ndhx.net、lsda.ndhx.net、zgjjsy.ndhx.net、
+  wenxian.ndhx.net 等，为批量代投/信息聚合站）
+- mlunwen.com（「杂志社官网投稿」系列，代投稿中介）
+- eshukan.com / eshukan.com（万维书刊网，投稿信息聚合，非官方）
+- fabiao.com.cn / hfabiao.com / yfabiao.com / lefabiao.com / ifabiao.com /
+  haofabiao.com / haozazhi.com（「发表」系列论文服务中介）
+- hhxueshu.com（瀚海学术，代投稿中介）
+- xueshuzixun.com / xueshu.com.cn（学术咨询网/学术之家，中介）
+- yueqikan.com / qikanvip.com / qikanvv.com / jyqikan.com / sofabiao.com /
+  400qikan.com / wyseo.cn / yuanpingjia.com.cn / caomeikeyan.com（期刊投稿中介）
+- juqk.net（聚期刊，中介）
+- kanzhiwang.com / wenkanky.com / 21ks.net / meizhang.com / bowenkj.com /
+  lsdazz.cn / kejianyi.cn / scizj.com / iikx.com / 123xueshu.com（期刊信息/代发中介）
+- fx361.com（参考网，转载信息站，非官方）
+- journalfamily.com（期刊之家，中介）
+- wanweixueshu.com（万维学术，投稿信息聚合，非官方）
+- fabiaoji.com（发表记，期刊点评/投稿信息聚合，非官方）
+- keliyan.net.cn（可立研，期刊信息聚合，非官方）
+- shangluzh.com（商录知/betway镜像站，转载站，非官方）
+- qikanzj.com / iikx.com / zhangqiaokeyan.com / wyseo.cn / aazz.cn / yunzazhi.com /
+  sozazhi.com / yuezazhi.com / zazhi.com.cn（期刊投稿中介/信息聚合站）
+- istpei.com / mqikan.com / lw881.com / scsn.mlunwen.com（投稿代发中介）
+- zgrkx.cn / hjyjjyjzzs.cn / jjtzggzz.cn（套用模板的伪官网中介站，页面标题
+  「XX杂志社投稿_期刊论文发表|版面费|电话|编辑部」，正文为「计算机类产品」占位
+  文本，与期刊内容无关，一律不采信）
+
+【2026-09-28 第2批补检新增】
+xacjxyxb.cn（"西安财经大学学报杂志社投稿"）
+  现象：自称为《西安财经大学学报》杂志社官网，实为中介代理站；
+        该站"投稿邮箱"为 kf@400qikan.com、电话 19083395317，均为商业代理特征；
+        站内"通知公告""投稿指南"为2021年模板化内容，且与知网官方采编系统不一致。
+  判定：非官方渠道，其内容一律不采信。该刊官方投稿入口为
+        https://sxgy.cbpt.cnki.net/portal（中国知网采编系统）。
+  同类需警惕：ahsf.ndhx.net、xacj.ndhx.net、gjsszz.ndhx.net、zglt.qikanvip.com、
+        qikanvip.com、wyseo.cn、fabiao.com.cn、xueshuzixun.com、91aibang.com、
+        juqk.net、jyqikan.com、mlunwen.com
+
+【2026-09-28 第3批补检新增】
+本批法学、政治学 4 刊的官方渠道缺失，检索结果被中介站点大量占据，下列站点一律不采信：
+  · 法治研究：fzyj.400qikan.com、fzyj.ndhx.net、fzyt.qikanvip.com、zhongwenqikan.com、
+            qikanzj.com、vzazhi.com、21ks.net、haofabiao.com
+  · 中国人民公安大学学报(社科版)：zgrmgadxxb.fabiao.com.cn、qikanvip.com、yfabiao.com、
+            21ks.net、hhxueshu.com、jyqikan.com、iikx.com、meizhang.com、yunzazhi.com
+  · 法学杂志：fxas.yueqikan.com、fxas.qikanvip.com、fx.mlunwen.com、fxzz.juqk.net、iikx.com
+  · 南大法学：njfl.xueshuzixun.com、xueshuzixun.com、21ks.net、fabiao.com.cn、xueshu.com.cn
+  · 港澳研究：gayj.jyqikan.com、yjga.xueshuzixun.com、wyseo.cn、gayjzzs.ndhx.net、
+            sfabiao.com、mcdurieux.com
+  · 国际关系研究：gjgxyj.yitougao.com、jyqikan.com、haotougao.com、qikanba.com、
+            ifabiao.com、eshukan.com
+判定依据：上述站点或使用商业代理邮箱/电话、或套用模板化内容、或自称"杂志社官网"但
+与主办单位无隶属关系。官方入口缺失时，本批相关刊一律判 B 类（未能核实），不据中介内容断言。
+
+【2026-09-28 第4批补检新增】
+本批 4 刊官方渠道缺失，检索结果被中介站点占据，下列站点一律不采信：
+  · 行政管理改革：xzgl.qikanvip.com、xzgl.xueshuzixun.com、xzglgg.qikanvv.com、
+            haozazhi.com、xueshuzixun.com、kanzhiwang.com、xzglgg.juqikan.com
+  · 中国人力资源开发：zrzk.xueshuzixun.com、jyqikan.com、kanzhiwang.com、wyseo.cn、
+            lw881.com、zazhifabiao.com、ihr360.com(博客)
+  · 新闻与传播评论：whds.xueshuzixun.com、xwycbpl.juqk.net、whds.qikanvip.com、
+            fx361.com、ncpssd.cn(数据库)
+  · 图书馆：tsgt.xueshuzixun.com、xueshuzixun.com、qikanzj.com、yipinqikan.com、
+            qikanba.com、zhichengyz.com、xuebaotougao.com、lw881.com、123xueshu.com
+特别提示：本批发现多个站点以「《XX》杂志社网站」自居（xueshuzixun.com、juqikan.com 等），
+实为模板化商业代理站，与刊物主办单位无隶属关系，其刊载的"投稿须知"不具官方效力。
+
+【2026-09-28 第5批补检新增】
+本批教育学/语言学/中国文学/体育学 7 刊，检索结果被下列中介站点大量占据，一律不采信：
+  · 华文教学与研究：hwjxyyj.cn、hwjxyyj.juqikan.com、hwjxyyj.fabiao.com、
+            hwjxyyj.jyqikan.com、hwjxyyj.jyqikan.com、ifabiao.com、qikanzj.com、
+            xueshushe.cn、wanweixueshu.com
+            （★注意 hwjxyyj.cn 与官方无隶属关系；该刊唯一官方投稿入口为
+              https://publish.cnki.net/jnhw，官方采编门户 jnhw.cbpt.cnki.net）
+  · 基础教育：zhjy.yueqikan.com、jcjy.juqikan.com、sofabiao.com、gwyoo.com
+  · 现代教育管理：lngd.qikanvip.com、lngd.yueqikan.com、lngd.scizj.com、
+            1674-5485.istpei.com、xueshu.com.cn、xdjygl.400qikan.com、cbgjzz.cn
+  · 天津体育学院学报：tjty.xueshuzixun.com、tjty.qikanvip.com、baywatch.cn
+  · 中国当代文学研究：zdwj.xueshuzixun.com、zgddwxyj.juqk.net、zgddwxyj.jyqikan.com、
+            zgddwxyj.sozazhi.com、sozazhi.com、kejianyi.cn
+  · 当代外语研究：zazhi.com.cn、aazz.cn
+            （★该刊官方已声明唯一真实官网为 http://www.qk.sjtu.edu.cn/cfls/，
+             编辑部邮箱 ddwyyj@sjtu.edu.cn 为编务邮箱、不接受投稿）
+  · 教育科学研究期刊（台湾）：该刊官方为台师大 jntnu.ord.ntnu.edu.tw/jres/；
+            另 airitilibrary.com 为其稿约 PDF 的转载/收录平台，引用时以台师大官网为准。
+特别提示（续）：本批再次确认 xueshuzixun.com、juqikan.com/juqk.net、qikanvip.com、
+yueqikan.com、jyqikan.com、400qikan.com、istpei.com、sozazhi.com、isp 系列站点
+为模板化商业代理站，以「《XX》杂志社网站」自居，其内容不具官方效力。
+
+【2026-09-28 第6批补检新增（末批）】
+本批考古学/历史学/民族学/社会学/环境/综合社科 8 刊，中介站点占据情况如下，一律不采信：
+  · 中原文物：zyww.xueshuzixun.com、zyww.ndhx.net、zyww.juqikan.com、zyww.yueqikan.com、
+            yipinqikan.com、vzazhi.com、qikanvip.com、ifabiao.com、haofabiao.com、
+            sozazhi.com、xueshu.com.cn、aazz.cn
+  · 日本侵华南京大屠杀研究：njts.xueshuzixun.com、xueshuzixun.com、
+            rbqhnjdtsyj.jyqikan.com、jyqikan.com、wyseo.cn、yfabiao.com、
+            fabiao.com.cn、fx361.com
+  · 世界历史评论：sfabiao.com、haofabiao.com、xueshu.com.cn、kanzhiwang.com、
+            fabiao.com.cn、yuezazhi.com、sozazhi.com、lw881.com
+  · 北方民族大学学报(哲社版)：bfmzdxb.ndhx.net、xbdr.yueqikan.com、xbdr.qikanvip.com、
+            xbdr.scizj.com、bfmzdxxb.mlunwen.com、bfmzdxxb.jyqikan.com、
+            bfmzdxxb.xueshu.com、bfmzdxxb.sozazhi.com、bfmzdxxb.zazhi.com.cn
+  · 青海民族研究：qhmj.yueqikan.com、qhmj.xueshuzixun.com、qhmj.qikanvip.com、
+            qhmzyj.ndhx.net、qhmzyj.qikanvv.com、qhmzyj.mlunwen.com、
+            qhmzyj.400qikan.com、qhmz.juqk.net、kanzhiwang.com、21ks.net
+  · 社会建设：shhjs.ndhx.net、cbgjzz.cn、shehjs.yunzazhi.com、haotougao.com
+  · 中国环境管理：zghjgl.ndhx.net、zghjgl.zazhi.com.cn、yuezazhi.com、aazz.cn、
+            xuekanba.com、haoqikan.com、yipinqikan.com、do1mishu.com
+  · 重庆社会科学：kanzhiwang.com、qikanvip.com、xueshuzixun.com、qikanzj.com、
+            zhichengyz.com、lw881.com、zhangqiaokeyan.com
+★本批特别提示：
+  1. 「北方民族大学学报」「青海民族研究」两刊**未检索到任何官方渠道**，
+     外网结果 100% 为中介站 —— 这两刊已按 skill 判 **B 类（未能核实）**，
+     不得据中介站内容判 A。
+  2. 再次确认 ndhx.net、yueqikan.com、qikanvip.com、xueshuzixun.com、
+     mlunwen.com、juqk.net、sozazhi.com、scizj.com、400qikan.com 为**模板化
+     商业代理站集群**，覆盖本批多数刊名，其「投稿须知」不具官方效力。

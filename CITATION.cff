@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "若使用本数据集，请按以下格式引用。"
+title: "CSSCI 期刊人工智能使用政策数据集"
+abstract: >-
+  中国人文社会科学核心期刊（CSSCI）2025—2026 年度 674 种来源期刊（26 个学科）
+  人工智能使用政策的逐刊检索证据、判定结果与检索过程记录。含各刊政策全文转录、
+  来源链接、置信度评估，以及未找到政策期刊的 A/B/C 三级分类与逐刊检索痕迹。
+type: dataset
+version: "1.0"
+date-released: "2026-09-29"
+license: CC-BY-4.0
+keywords:
+  - CSSCI
+  - 人工智能政策
+  - 学术出版伦理
+  - 期刊政策
+  - 生成式人工智能
+  - AIGC
+  - 人文社会科学
+  - 元研究
+authors:
+  - family-names: "XIAO"
+    given-names: "Aoxia"
+repository-code: "https://github.com/XXXXXXia/cssci-ai-policy-dataset"
+url: "https://github.com/XXXXXXia/cssci-ai-policy-dataset"
